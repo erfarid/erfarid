@@ -1,6 +1,6 @@
 # Hi, I'm Md Farid 👋
 
-🎓 **Computer Science Student** based in Budapest, Hungary  
+🎓 Final year **Computer Science Student** based in Budapest, Hungary  
 🤖 **AI, Data Science, and Machine Learning Enthusiast**  
 💻 Interested in software engineering, full-stack development, backend systems, and intelligent applications  
 

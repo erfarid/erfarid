@@ -1,4 +1,4 @@
-# Hi, I'm Farid 👋
+# Hi, I'm MdFarid 👋
 
 🎓 Final year **Computer Science Student** based in Budapest, Hungary  
 🤖 **AI, Data Science, and Machine Learning Enthusiast**  
